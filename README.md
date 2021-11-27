@@ -1,6 +1,7 @@
 # Lavalink-MusicBot
 
 A simple and easy to use musicbot in python and it uses lavalink.
+
 ## ✨ Features
 
 - plays music in your discord server
@@ -10,7 +11,7 @@ A simple and easy to use musicbot in python and it uses lavalink.
 
 - download everything in this repo
 - edit the `TOKEN` part in `bot.py` file and add your bot token in it
-- download lavalink.jar from [`here`](https://railway.app/new/template?template=https://github.com/afnan007a/Railway-Gotty)
+- download lavalink.jar from [`here`](https://github.com/freyacodes/Lavalink/releases/download/3.4/Lavalink.jar)
 - upload it to same directory of the bot files
 - download dbdmusic package (type this in the terminal: `pip install dbdmusic`)
 - run the `bot.py` file
