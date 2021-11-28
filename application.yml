@@ -1,9 +1,9 @@
 server: 
-  port: 443
+  port: YOUR_PORT
   address: 0.0.0.0
 lavalink:
   server:
-    password: "lavalinkpass"
+    password: "YOUR_PASS"
     sources:
       youtube: true
       bandcamp: true
